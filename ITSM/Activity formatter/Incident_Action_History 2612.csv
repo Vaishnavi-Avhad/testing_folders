@@ -1,0 +1,328 @@
+BMCSERVICEDESK__ACTION_DURATION__C,BMCSERVICEDESK__ATTACHMENTS__C,BMCSERVICEDESK__CLIENT_CONTACT__C,BMCSERVICEDESK__CLIENT_USER__C,BMCSERVICEDESK__EMAILCONVERSATIONDATA__C,BMCSERVICEDESK__FKACTION__C,BMCSERVICEDESK__FKINCIDENT__C,BMCSERVICEDESK__FKSTAFF__C,BMCSERVICEDESK__FKUSER__C,BMCSERVICEDESK__REPLY_CONSOLE__C,BMCSERVICEDESK__REPLY__C,BMCSERVICEDESK__RICHTEXTNOTE__C,BMCSERVICEDESK__ACTIONID__C,BMCSERVICEDESK__DATE__C,BMCSERVICEDESK__DESCRIPTION__C,BMCSERVICEDESK__DURATION__C,BMCSERVICEDESK__INACTIVE__C,BMCSERVICEDESK__INCIDENTID__C,BMCSERVICEDESK__NOTE__C,BMCSERVICEDESK__SYSTEM__C,BMCSERVICEDESK__USERID__C,CREATEDBYID,CREATEDDATE,ID,INCIDENT_ASSIGNED_STAFF_EMAIL__C,ISDELETED,LASTMODIFIEDBYID,LASTMODIFIEDDATE,LASTREFERENCEDDATE,LASTVIEWEDDATE,NAME,NOTIFY_STAFF_COMMENT_ADDED_CONTROLLER__C,SYSTEMMODSTAMP
+,,,0050T000001mgjfQAA,From:anish.marathe@bluepineapple.io#@#@#@#To:logistics_service@2-2v7sfnxq9iszqu8re8gp6nzf80btsltk1km01xzow918u82x53.0t-vanuam.cs112.apex.sandbox.salesforce.com; #@#@#@#Cc:,a001000000fLHqUAAW,a1N0T000000WbuSUAS,,0050T000001mgjfQAA,"<a href=""/apex/BMCServiceDesk__ConsoleRedirect?formulaFieldName=IncidentHistoryConsoleReply&amp;recordId=a1N0T000000WbuS&amp;HistoryId=a1K0T0000002wPT&amp;actionType=Email Received"" target=""_self""><img src=""/resource/BMCServiceDesk__SDEFStyles/SDEFbuttons/b_reply_to_client_email.png"" alt=""Reply"" border=""0""/></a>","<a href=""apex/BMCServiceDesk__ConsoleRedirect?formulaFieldName=IncidentHistoryReply&amp;recordId=a1N0T000000WbuS&amp;HistoryId=a1K0T0000002wPT&amp;actionType=Email Received"" target=""_self""><img src=""/resource/BMCServiceDesk__SDEFStyles/SDEFbuttons/b_reply_to_client_email.png"" alt=""Reply"" border=""0""/></a>","From: anish.marathe@bluepineapple.io<br>Sent: Tue, Jul 19, 2022 16:37 PM<br>To: logistics_service@2-2v7sfnxq9iszqu8re8gp6nzf80btsltk1km01xzow918u82x53.0t-vanuam.cs112.apex.sandbox.salesforce.com; <br>Cc: <br>Subject: Hello Logistics Test 3 (Ref:IN:00812534)<br><br><div class=""WordSection1"">
+<p class=""MsoNormal"">Hello Logistics Test 3</p>
+<p class=""MsoNormal""> </p>
+<p class=""MsoNormal""><span style="""">Thanks,</span></p>
+<p class=""MsoNormal""><span style="""">Anish Marathe</span></p>
+<p class=""MsoNormal""><span style="""">Cloud Analyst</span></p>
+<p class=""MsoNormal""><span style=""""><a href=""mailto:anish.marathe@bluepineapple.io"" target=""_blank"">anish.marathe@bluepineapple.io</a></span></p>
+<p class=""MsoNormal""><span style=""font-size: 10.5pt; color: #252424;""><img id=""_x0000_i1025"" border=""0"" width=""168"" height=""36"" style=""width: 1.75in; height: .375in;"" src=""https://bluepineapple.io/wp-content/uploads/2020/03/logo.png""></img></span><span style=""""></span></p>
+<p class=""MsoNormal""> </p>
+</div>
+<p><strong>Disclaimer:</strong> This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager.
+ Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization
+ accepts no liability for any damage caused by any virus transmitted by this email.
+</p>",Email Received,2022-07-19T06:37:11.000Z,Email Received-Hello Logistics Test 3 (Ref:IN:00812534),,FALSE,812534,"From: anish.marathe@bluepineapple.io
+Sent: Tue, Jul 19, 2022 16:37 PM
+To: logistics_service@2-2v7sfnxq9iszqu8re8gp6nzf80btsltk1km01xzow918u82x53.0t-vanuam.cs112.apex.sandbox.salesforce.com; 
+Cc: 
+Subject: Hello Logistics Test 3 (Ref:IN:00812534)
+
+Hello Logistics Test 3
+
+Thanks,
+Anish Marathe
+Cloud Analyst
+anish.marathe@bluepineapple.io<mailto:anish.marathe@bluepineapple.io>
+[https://bluepineapple.io/wp-content/uploads/2020/03/logo.png]
+
+
+Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization accepts no liability for any damage caused by any virus transmitted by this email.",FALSE,sam.staff@konicaminolta.au.test,0050T000001mekOQAQ,2022-07-19T06:37:11.000Z,a1K0T0000002wPTUAY,,FALSE,0050T000001mekOQAQ,2022-07-19T06:37:11.000Z,,,00812534_0,FALSE,2022-07-19T06:37:11.000Z
+,,,0050T000001mgjfQAA,From:anish.marathe@bluepineapple.io#@#@#@#To:bluepineapple@a-2bvpwz7r4togfmdynxh4kik0nak5bshjxzhcknib7jdd60woi.0t-vanuam.cs112.apex.sandbox.salesforce.com; #@#@#@#Cc:,a001000000fLHqUAAW,a1N0T000000WbuSUAS,,0050T000001mgjfQAA,"<a href=""/apex/BMCServiceDesk__ConsoleRedirect?formulaFieldName=IncidentHistoryConsoleReply&amp;recordId=a1N0T000000WbuS&amp;HistoryId=a1K0T0000002wPY&amp;actionType=Email Received"" target=""_self""><img src=""/resource/BMCServiceDesk__SDEFStyles/SDEFbuttons/b_reply_to_client_email.png"" alt=""Reply"" border=""0""/></a>","<a href=""apex/BMCServiceDesk__ConsoleRedirect?formulaFieldName=IncidentHistoryReply&amp;recordId=a1N0T000000WbuS&amp;HistoryId=a1K0T0000002wPY&amp;actionType=Email Received"" target=""_self""><img src=""/resource/BMCServiceDesk__SDEFStyles/SDEFbuttons/b_reply_to_client_email.png"" alt=""Reply"" border=""0""/></a>","From: anish.marathe@bluepineapple.io<br>Sent: Tue, Jul 19, 2022 16:42 PM<br>To: bluepineapple@a-2bvpwz7r4togfmdynxh4kik0nak5bshjxzhcknib7jdd60woi.0t-vanuam.cs112.apex.sandbox.salesforce.com; <br>Cc: <br>Subject: RE: Sandbox: Incident (Ref:IN:00812534) has been created and is assigned to Queue: Logistics<br><br><div class=""WordSection1"">
+<p class=""MsoNormal""><span style="""">Reply test</span></p>
+<p class=""MsoNormal""><span style=""""> </span></p>
+<div>
+<div style=""border: none;"">
+<p class=""MsoNormal""><b><span>From:</span></b><span> Konica Minolta Helpdesk &lt;support@konicaminolta.com.au&gt;
+<br><b>Sent:</b> 19 July 2022 12:07<br><b>To:</b> Ashwini Bokare &lt;ashwini.bokare@bluepineapple.io&gt;; Anish Marathe &lt;anish.marathe@bluepineapple.io&gt;<br><b>Subject:</b> Sandbox: Incident (Ref:IN:00812534) has been created and is assigned to Queue: Logistics</span></p>
+</div>
+</div>
+<p class=""MsoNormal""> </p>
+<table class=""MsoNormalTable"" border=""0"" cellspacing=""3"" cellpadding=""0""><tbody><tr><td colspan=""1"" rowspan=""1"" valign=""top"" style="""">
+<p class=""MsoNormal""><b><span style=""font-size: 10.0pt;"">Incident (Ref:IN:00812534) has been created and is assigned to Queue: Logistics
+</span></b><span style=""font-size: 10.0pt;""></span></p>
+</td></tr></tbody></table>
+<p class=""MsoNormal""><span style=""font-size: 10.0pt;""> </span></p>
+<table class=""MsoNormalTable"" border=""0"" cellspacing=""3"" cellpadding=""0""><tbody><tr><td colspan=""1"" rowspan=""1"" valign=""top"" style="""">
+<p class=""MsoNormal""><b><span style=""font-size: 10.0pt;"">More details about this Incident:</span></b></p>
+</td><td colspan=""1"" rowspan=""1"" valign=""top"" style="""">
+<p class=""MsoNormal""><span style=""font-size: 10.0pt;"">[
+<a href=""https://konicaminolta-au.lightning.force.com/apex/BMCServiceDesk__RemedyforceConsole?record_id=a1N0T000000WbuS&amp;objectName=Incident__c"" target=""_blank"">
+Console</a> ] </span></p>
+</td></tr><tr><td colspan=""1"" rowspan=""1"" valign=""top"" style="""">
+<p class=""MsoNormal""><b><span style=""font-size: 10.0pt;"">Client Name:</span></b></p>
+</td><td colspan=""1"" rowspan=""1"" valign=""top"" style="""">
+<p class=""MsoNormal""><span style=""font-size: 10.0pt;"">Sam Staff
+</span></p>
+</td></tr><tr><td colspan=""1"" rowspan=""1"" valign=""top"" style="""">
+<p class=""MsoNormal""><b><span style=""font-size: 10.0pt;"">Category:</span></b></p>
+</td><td colspan=""1"" rowspan=""1"" valign=""top"" style=""""></td></tr><tr><td colspan=""1"" rowspan=""1"" valign=""top"" style="""">
+<p class=""MsoNormal""><b><span style=""font-size: 10.0pt;"">Impact:</span></b></p>
+</td><td colspan=""1"" rowspan=""1"" valign=""top"" style="""">
+<p class=""MsoNormal""><span style=""font-size: 10.0pt;"">3. Low
+</span></p>
+</td></tr><tr><td colspan=""1"" rowspan=""1"" valign=""top"" style="""">
+<p class=""MsoNormal""><b><span style=""font-size: 10.0pt;"">Urgency:</span></b></p>
+</td><td colspan=""1"" rowspan=""1"" valign=""top"" style="""">
+<p class=""MsoNormal""><span style=""font-size: 10.0pt;"">3. Low
+</span></p>
+</td></tr></tbody></table>
+<p class=""MsoNormal""><span style=""font-size: 10.0pt;""> </span></p>
+<table class=""MsoNormalTable"" border=""0"" cellspacing=""3"" cellpadding=""0""><tbody><tr><td colspan=""1"" rowspan=""1"" valign=""top"" style="""">
+<p class=""MsoNormal""><b><span style=""font-size: 10.0pt;"">Description:
+</span></b><span style=""font-size: 10.0pt;""><br>Hello Logistics Test 3<br><br>Body: Hello Logistics Test 3<br><br>Thanks,<br>Anish Marathe<br>Cloud Analyst<br><a href=""mailto:anish.marathe@bluepineapple.io%7bmailto:anish.marathe@bluepineapple.io%7d"" target=""_blank"">anish.marathe@bluepineapple.io{mailto:anish.marathe@bluepineapple.io}</a><br>[https://bluepineapple.io/wp-content/uploads/2020/03/logo.png]<br><br><br>Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. Please note that any
+ views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization accepts no
+ liability for any damage caused by any virus transmitted by this email. </span></p>
+</td></tr></tbody></table>
+<p class=""MsoNormal""><span style=""font-size: 10.0pt;""><br><br><strong><span style="""">**Note: Please do not remove (Ref:IN:00812534)</span></strong>
+</span></p>
+<div>
+<div align=""center"" class=""MsoNormal"" style=""text-align: center;""><span style=""font-size: 8.0pt;"">
+</span><hr align=""center"" size=""2"" width=""100%""></hr>
+</div>
+</div>
+<p class=""MsoNormal""><span style=""font-size: 10.0pt;""><br><br>Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. Please note that any
+ views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization accepts no
+ liability for any damage caused by any virus transmitted by this email. </span></p>
+<p><strong><span style="""">Disclaimer:</span></strong> This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this
+ email in error, please notify the system manager. Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any
+ attachments for the presence of viruses. The organization accepts no liability for any damage caused by any virus transmitted by this email.
+</p>
+</div>
+<p><strong>Disclaimer:</strong> This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager.
+ Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization
+ accepts no liability for any damage caused by any virus transmitted by this email.
+</p>",Email Received,2022-07-19T06:42:56.000Z,Email Received-RE: Sandbox: Incident (Ref:IN:00812534) has been created and is assigned to Queue: Logistics,,FALSE,812534,"From: anish.marathe@bluepineapple.io
+Sent: Tue, Jul 19, 2022 16:42 PM
+To: bluepineapple@a-2bvpwz7r4togfmdynxh4kik0nak5bshjxzhcknib7jdd60woi.0t-vanuam.cs112.apex.sandbox.salesforce.com; 
+Cc: 
+Subject: RE: Sandbox: Incident (Ref:IN:00812534) has been created and is assigned to Queue: Logistics
+
+Reply test
+
+From: Konica Minolta Helpdesk <support@konicaminolta.com.au>
+Sent: 19 July 2022 12:07
+To: Ashwini Bokare <ashwini.bokare@bluepineapple.io>; Anish Marathe <anish.marathe@bluepineapple.io>
+Subject: Sandbox: Incident (Ref:IN:00812534) has been created and is assigned to Queue: Logistics
+
+Incident (Ref:IN:00812534) has been created and is assigned to Queue: Logistics
+
+More details about this Incident:
+[ Console<https://konicaminolta-au.lightning.force.com/apex/BMCServiceDesk__RemedyforceConsole?record_id=a1N0T000000WbuS&objectName=Incident__c> ]
+Client Name:
+Sam Staff
+Category:
+Impact:
+3. Low
+Urgency:
+3. Low
+
+Description:
+Hello Logistics Test 3
+
+Body: Hello Logistics Test 3
+
+Thanks,
+Anish Marathe
+Cloud Analyst
+anish.marathe@bluepineapple.io{mailto:anish.marathe@bluepineapple.io}<mailto:anish.marathe@bluepineapple.io%7bmailto:anish.marathe@bluepineapple.io%7d>
+[https://bluepineapple.io/wp-content/uploads/2020/03/logo.png]
+
+
+Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization accepts no liability for any damage caused by any virus transmitted by this email.
+
+
+**Note: Please do not remove (Ref:IN:00812534)
+________________________________
+
+
+Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization accepts no liability for any damage caused by any virus transmitted by this email.
+
+Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization accepts no liability for any damage caused by any virus transmitted by this email.
+
+Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization accepts no liability for any damage caused by any virus transmitted by this email.",FALSE,sam.staff@konicaminolta.au.test,0050T000001mekOQAQ,2022-07-19T06:42:57.000Z,a1K0T0000002wPYUAY,,FALSE,0050T000001mekOQAQ,2022-07-19T06:42:57.000Z,,,00812534_1,FALSE,2022-07-19T06:42:57.000Z
+,,,0050T000001mgjfQAA,From:support@konicaminolta.com.au#@#@#@#To:anish.marathe@bluepineapple.io;#@#@#@#Cc:,a001000000fLHqVAAW,a1N0T000000WbuSUAS,,0050T000001mekOQAQ,"<a href=""/apex/BMCServiceDesk__ConsoleRedirect?formulaFieldName=IncidentHistoryConsoleReply&amp;recordId=a1N0T000000WbuS&amp;HistoryId=a1K0T0000002wPd&amp;actionType=Email Sent"" target=""_self""><img src=""/resource/BMCServiceDesk__SDEFStyles/SDEFbuttons/b_reply_to_client_email.png"" alt=""Reply"" border=""0""/></a>","<a href=""apex/BMCServiceDesk__ConsoleRedirect?formulaFieldName=IncidentHistoryReply&amp;recordId=a1N0T000000WbuS&amp;HistoryId=a1K0T0000002wPd&amp;actionType=Email Sent"" target=""_self""><img src=""/resource/BMCServiceDesk__SDEFStyles/SDEFbuttons/b_reply_to_client_email.png"" alt=""Reply"" border=""0""/></a>","From: support@konicaminolta.com.au<br>Sent: Tue, Jul 19, 2022 16:49 PM<br>To: anish.marathe@bluepineapple.io;<br>Subject: (Ref:IN:00812534) (Ref:IN:00812534)<br><br>Hello User,<br><br>Test email communication<br><br>(Ref:IN:00812534)<br>Important: Do not change the subject line while replying.",Email Sent,2022-07-19T06:49:17.000Z,Email Sent-(Ref:IN:00812534) (Ref:IN:00812534),,FALSE,812534,"From: support@konicaminolta.com.au
+Sent: Tue, Jul 19, 2022 16:49 PM
+To: anish.marathe@bluepineapple.io;
+Subject: (Ref:IN:00812534) (Ref:IN:00812534)
+
+Hello User,
+
+Test email communication
+
+
+(Ref:IN:00812534)
+Important: Do not change the subject line while replying.",FALSE,anish.marathe@konicaminolta.com.au.test,0050T000001mekOQAQ,2022-07-19T06:49:17.000Z,a1K0T0000002wPdUAI,,FALSE,0050T000001mekOQAQ,2022-07-19T06:49:17.000Z,,,00812534_2,FALSE,2022-07-19T06:49:17.000Z
+,,,0050T000001mgjfQAA,From:anish.marathe@bluepineapple.io#@#@#@#To:bluepineapple@a-2bvpwz7r4togfmdynxh4kik0nak5bshjxzhcknib7jdd60woi.0t-vanuam.cs112.apex.sandbox.salesforce.com; #@#@#@#Cc:,a001000000fLHqUAAW,a1N0T000000WbuSUAS,,0050T000001mgjfQAA,"<a href=""/apex/BMCServiceDesk__ConsoleRedirect?formulaFieldName=IncidentHistoryConsoleReply&amp;recordId=a1N0T000000WbuS&amp;HistoryId=a1K0T0000002wPi&amp;actionType=Email Received"" target=""_self""><img src=""/resource/BMCServiceDesk__SDEFStyles/SDEFbuttons/b_reply_to_client_email.png"" alt=""Reply"" border=""0""/></a>","<a href=""apex/BMCServiceDesk__ConsoleRedirect?formulaFieldName=IncidentHistoryReply&amp;recordId=a1N0T000000WbuS&amp;HistoryId=a1K0T0000002wPi&amp;actionType=Email Received"" target=""_self""><img src=""/resource/BMCServiceDesk__SDEFStyles/SDEFbuttons/b_reply_to_client_email.png"" alt=""Reply"" border=""0""/></a>","From: anish.marathe@bluepineapple.io<br>Sent: Tue, Jul 19, 2022 16:51 PM<br>To: bluepineapple@a-2bvpwz7r4togfmdynxh4kik0nak5bshjxzhcknib7jdd60woi.0t-vanuam.cs112.apex.sandbox.salesforce.com; <br>Cc: <br>Subject: RE: Sandbox: (Ref:IN:00812534) (Ref:IN:00812534)<br><br><div class=""WordSection1"">
+<p class=""MsoNormal""><span style="""">Hello Staff</span></p>
+<p class=""MsoNormal""><span style=""""> </span></p>
+<div>
+<div style=""border: none;"">
+<p class=""MsoNormal""><b><span>From:</span></b><span> Konica Minolta Helpdesk &lt;support@konicaminolta.com.au&gt;
+<br><b>Sent:</b> 19 July 2022 12:19<br><b>To:</b> Anish Marathe &lt;anish.marathe@bluepineapple.io&gt;<br><b>Subject:</b> Sandbox: (Ref:IN:00812534) (Ref:IN:00812534)</span></p>
+</div>
+</div>
+<p class=""MsoNormal""> </p>
+<p class=""MsoNormal"">Hello User,<br><br>Test email communication<br><br>(Ref:IN:00812534)<br>Important: Do not change the subject line while replying.<br><br>Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. Please note that any
+ views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization accepts no
+ liability for any damage caused by any virus transmitted by this email. </p>
+<p><strong><span style="""">Disclaimer:</span></strong> This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received
+ this email in error, please notify the system manager. Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email
+ and any attachments for the presence of viruses. The organization accepts no liability for any damage caused by any virus transmitted by this email.
+</p>
+</div>
+<p><strong>Disclaimer:</strong> This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager.
+ Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization
+ accepts no liability for any damage caused by any virus transmitted by this email.
+</p>",Email Received,2022-07-19T06:51:12.000Z,Email Received-RE: Sandbox: (Ref:IN:00812534) (Ref:IN:00812534),,FALSE,812534,"From: anish.marathe@bluepineapple.io
+Sent: Tue, Jul 19, 2022 16:51 PM
+To: bluepineapple@a-2bvpwz7r4togfmdynxh4kik0nak5bshjxzhcknib7jdd60woi.0t-vanuam.cs112.apex.sandbox.salesforce.com; 
+Cc: 
+Subject: RE: Sandbox: (Ref:IN:00812534) (Ref:IN:00812534)
+
+Hello Staff
+
+From: Konica Minolta Helpdesk <support@konicaminolta.com.au>
+Sent: 19 July 2022 12:19
+To: Anish Marathe <anish.marathe@bluepineapple.io>
+Subject: Sandbox: (Ref:IN:00812534) (Ref:IN:00812534)
+
+Hello User,
+
+Test email communication
+
+(Ref:IN:00812534)
+Important: Do not change the subject line while replying.
+
+Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization accepts no liability for any damage caused by any virus transmitted by this email.
+
+Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization accepts no liability for any damage caused by any virus transmitted by this email.
+
+Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization accepts no liability for any damage caused by any virus transmitted by this email.",FALSE,sam.staff@konicaminolta.au.test,0050T000001mekOQAQ,2022-07-19T06:51:12.000Z,a1K0T0000002wPiUAI,,FALSE,0050T000001mekOQAQ,2022-07-19T06:51:12.000Z,,,00812534_3,FALSE,2022-07-19T06:51:12.000Z
+,,,0050T000001mgjfQAA,From:support@konicaminolta.com.au#@#@#@#To:anish.marathe@bluepineapple.io;#@#@#@#Cc:,a001000000fLHqVAAW,a1N0T000000WbuSUAS,,0050T000001mekOQAQ,"<a href=""/apex/BMCServiceDesk__ConsoleRedirect?formulaFieldName=IncidentHistoryConsoleReply&amp;recordId=a1N0T000000WbuS&amp;HistoryId=a1K0T0000002wPn&amp;actionType=Email Sent"" target=""_self""><img src=""/resource/BMCServiceDesk__SDEFStyles/SDEFbuttons/b_reply_to_client_email.png"" alt=""Reply"" border=""0""/></a>","<a href=""apex/BMCServiceDesk__ConsoleRedirect?formulaFieldName=IncidentHistoryReply&amp;recordId=a1N0T000000WbuS&amp;HistoryId=a1K0T0000002wPn&amp;actionType=Email Sent"" target=""_self""><img src=""/resource/BMCServiceDesk__SDEFStyles/SDEFbuttons/b_reply_to_client_email.png"" alt=""Reply"" border=""0""/></a>","From: support@konicaminolta.com.au<br>Sent: Tue, Jul 19, 2022 16:51 PM<br>To: anish.marathe@bluepineapple.io;<br>Subject: Incident #00812534 (Ref:IN:00812534)<br><br>Thank you, Received!<br><br>(Ref:IN:00812534)<br>Important: Do not change the subject line while replying.",Email Sent,2022-07-19T06:51:56.000Z,Email Sent-Incident #00812534 (Ref:IN:00812534),,FALSE,812534,"From: support@konicaminolta.com.au
+Sent: Tue, Jul 19, 2022 16:51 PM
+To: anish.marathe@bluepineapple.io;
+Subject: Incident #00812534 (Ref:IN:00812534)
+
+Thank you, Received!
+
+(Ref:IN:00812534)
+Important: Do not change the subject line while replying.",FALSE,anish.marathe@konicaminolta.com.au.test,0050T000001mekOQAQ,2022-07-19T06:51:56.000Z,a1K0T0000002wPnUAI,,FALSE,0050T000001mekOQAQ,2022-07-19T06:51:56.000Z,,,00812534_4,FALSE,2022-07-19T06:51:56.000Z
+,,,0050T000001mgjfQAA,From:anish.marathe@bluepineapple.io#@#@#@#To:bluepineapple@a-2bvpwz7r4togfmdynxh4kik0nak5bshjxzhcknib7jdd60woi.0t-vanuam.cs112.apex.sandbox.salesforce.com; #@#@#@#Cc:,a001000000fLHqUAAW,a1N0T000000WbuSUAS,,0050T000001mgjfQAA,"<a href=""/apex/BMCServiceDesk__ConsoleRedirect?formulaFieldName=IncidentHistoryConsoleReply&amp;recordId=a1N0T000000WbuS&amp;HistoryId=a1K0T0000002wdD&amp;actionType=Email Received"" target=""_self""><img src=""/resource/BMCServiceDesk__SDEFStyles/SDEFbuttons/b_reply_to_client_email.png"" alt=""Reply"" border=""0""/></a>","<a href=""apex/BMCServiceDesk__ConsoleRedirect?formulaFieldName=IncidentHistoryReply&amp;recordId=a1N0T000000WbuS&amp;HistoryId=a1K0T0000002wdD&amp;actionType=Email Received"" target=""_self""><img src=""/resource/BMCServiceDesk__SDEFStyles/SDEFbuttons/b_reply_to_client_email.png"" alt=""Reply"" border=""0""/></a>","From: anish.marathe@bluepineapple.io<br>Sent: Fri, Jul 22, 2022 00:20 AM<br>To: bluepineapple@a-2bvpwz7r4togfmdynxh4kik0nak5bshjxzhcknib7jdd60woi.0t-vanuam.cs112.apex.sandbox.salesforce.com; <br>Cc: <br>Subject: RE: Sandbox: (Ref:IN:00812534) has been assigned to Logistics<br><br><div class=""WordSection1"">
+<p class=""MsoNormal""><span style="""">Hi How are ya?</span></p>
+<p class=""MsoNormal""><span style=""""> </span></p>
+<div>
+<div style=""border: none;"">
+<p class=""MsoNormal""><b><span>From:</span></b><span> Konica Minolta Helpdesk &lt;support@konicaminolta.com.au&gt;
+<br><b>Sent:</b> 21 July 2022 19:49<br><b>To:</b> Ashwini Bokare &lt;ashwini.bokare@bluepineapple.io&gt;; Anish Marathe &lt;anish.marathe@bluepineapple.io&gt;<br><b>Subject:</b> Sandbox: (Ref:IN:00812534) has been assigned to Logistics</span></p>
+</div>
+</div>
+<p class=""MsoNormal""> </p>
+<div>
+<p class=""MsoNormal""><span style=""font-size: 10.0pt;""><br><b>This Incident has been Assigned</b> <br><br><b>Assigned To:</b> <br><b>Queue Name:</b>. Logistics<br><b>Status:</b> Open <br><b>Open Date:</b> 19/07/2022 4:37 PM <br><b>Due Date:</b> 17/08/2022 3:07 PM <br><b>Category:</b> <br><b>Priority:</b> 3 <br><b>Resolution Notes: </b></span></p>
+<p class=""MsoNormal""><b><span style=""font-size: 10.0pt;"">Description:</span></b><span style=""font-size: 10.0pt;""><br>Hello Logistics Test 3<br><br>Body: Hello Logistics Test 3<br><br>Thanks,<br>Anish Marathe<br>Cloud Analyst<br><a href=""mailto:anish.marathe@bluepineapple.io%7bmailto:anish.marathe@bluepineapple.io%7d"" target=""_blank"">anish.marathe@bluepineapple.io{mailto:anish.marathe@bluepineapple.io}</a><br>[https://bluepineapple.io/wp-content/uploads/2020/03/logo.png]<br><br><br>Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. Please note that any
+ views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization accepts no
+ liability for any damage caused by any virus transmitted by this email.</span></p>
+</div>
+<p class=""MsoNormal"" style=""""><span style=""font-size: 10.0pt;""><br><br><br></span></p>
+<div>
+<p class=""MsoNormal""><span style=""font-size: 8.0pt;"">Incident Email Template 7 (English)
+</span></p>
+</div>
+<p class=""MsoNormal""><span style=""font-size: 10.0pt;""><br><br>Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. Please note that any
+ views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization accepts no
+ liability for any damage caused by any virus transmitted by this email. </span></p>
+<p><strong><span style="""">Disclaimer:</span></strong> This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this
+ email in error, please notify the system manager. Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any
+ attachments for the presence of viruses. The organization accepts no liability for any damage caused by any virus transmitted by this email.
+</p>
+</div>
+<p><strong>Disclaimer:</strong> This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager.
+ Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization
+ accepts no liability for any damage caused by any virus transmitted by this email.
+</p>",Email Received,2022-07-21T14:20:59.000Z,Email Received-RE: Sandbox: (Ref:IN:00812534) has been assigned to Logistics,,FALSE,812534,"From: anish.marathe@bluepineapple.io
+Sent: Fri, Jul 22, 2022 00:20 AM
+To: bluepineapple@a-2bvpwz7r4togfmdynxh4kik0nak5bshjxzhcknib7jdd60woi.0t-vanuam.cs112.apex.sandbox.salesforce.com; 
+Cc: 
+Subject: RE: Sandbox: (Ref:IN:00812534) has been assigned to Logistics
+
+Hi How are ya?
+
+From: Konica Minolta Helpdesk <support@konicaminolta.com.au>
+Sent: 21 July 2022 19:49
+To: Ashwini Bokare <ashwini.bokare@bluepineapple.io>; Anish Marathe <anish.marathe@bluepineapple.io>
+Subject: Sandbox: (Ref:IN:00812534) has been assigned to Logistics
+
+
+This Incident has been Assigned
+
+Assigned To:
+Queue Name:. Logistics
+Status: Open
+Open Date: 19/07/2022 4:37 PM
+Due Date: 17/08/2022 3:07 PM
+Category:
+Priority: 3
+Resolution Notes:
+Description:
+Hello Logistics Test 3
+
+Body: Hello Logistics Test 3
+
+Thanks,
+Anish Marathe
+Cloud Analyst
+anish.marathe@bluepineapple.io{mailto:anish.marathe@bluepineapple.io}<mailto:anish.marathe@bluepineapple.io%7bmailto:anish.marathe@bluepineapple.io%7d>
+[https://bluepineapple.io/wp-content/uploads/2020/03/logo.png]
+
+
+Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization accepts no liability for any damage caused by any virus transmitted by this email.
+
+
+
+Incident Email Template 7 (English)
+
+
+Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization accepts no liability for any damage caused by any virus transmitted by this email.
+
+Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization accepts no liability for any damage caused by any virus transmitted by this email.
+
+Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization accepts no liability for any damage caused by any virus transmitted by this email.",FALSE,sam.staff@konicaminolta.au.test,0050T000001mekOQAQ,2022-07-21T14:20:59.000Z,a1K0T0000002wdDUAQ,,FALSE,0050T000001mekOQAQ,2022-07-21T14:20:59.000Z,,,00812534_5,FALSE,2022-07-21T14:20:59.000Z
+,,,0050T000001mgjfQAA,From:support@konicaminolta.com.au#@#@#@#To:anish.marathe@bluepineapple.io;#@#@#@#Cc:,a001000000fLHqVAAW,a1N0T000000WbuSUAS,,0050T000001mekOQAQ,"<a href=""/apex/BMCServiceDesk__ConsoleRedirect?formulaFieldName=IncidentHistoryConsoleReply&amp;recordId=a1N0T000000WbuS&amp;HistoryId=a1K0T0000002wdX&amp;actionType=Email Sent"" target=""_self""><img src=""/resource/BMCServiceDesk__SDEFStyles/SDEFbuttons/b_reply_to_client_email.png"" alt=""Reply"" border=""0""/></a>","<a href=""apex/BMCServiceDesk__ConsoleRedirect?formulaFieldName=IncidentHistoryReply&amp;recordId=a1N0T000000WbuS&amp;HistoryId=a1K0T0000002wdX&amp;actionType=Email Sent"" target=""_self""><img src=""/resource/BMCServiceDesk__SDEFStyles/SDEFbuttons/b_reply_to_client_email.png"" alt=""Reply"" border=""0""/></a>","From: support@konicaminolta.com.au<br>Sent: Fri, Jul 22, 2022 00:22 AM<br>To: anish.marathe@bluepineapple.io;<br>Subject: Incident #00812534 (Ref:IN:00812534)<br><br>Hi I am fine.<br><br>(Ref:IN:00812534)<br>Important: Do not change the subject line while replying.",Email Sent,2022-07-21T14:22:27.000Z,Email Sent-Incident #00812534 (Ref:IN:00812534),,FALSE,812534,"From: support@konicaminolta.com.au
+Sent: Fri, Jul 22, 2022 00:22 AM
+To: anish.marathe@bluepineapple.io;
+Subject: Incident #00812534 (Ref:IN:00812534)
+
+Hi I am fine.
+
+(Ref:IN:00812534)
+Important: Do not change the subject line while replying.",FALSE,anish.marathe@konicaminolta.com.au.test,0050T000001mekOQAQ,2022-07-21T14:22:28.000Z,a1K0T0000002wdXUAQ,,FALSE,0050T000001mekOQAQ,2022-07-21T14:22:28.000Z,,,00812534_6,FALSE,2022-07-21T14:22:28.000Z
+,,,0050T000001mgjfQAA,From:anish.marathe@bluepineapple.io#@#@#@#To:logistics_service@2-2v7sfnxq9iszqu8re8gp6nzf80btsltk1km01xzow918u82x53.0t-vanuam.cs112.apex.sandbox.salesforce.com; #@#@#@#Cc:,a001000000fLHqUAAW,a1N0T000000WbuIUAS,,0050T000001mgjfQAA,"<a href=""/apex/BMCServiceDesk__ConsoleRedirect?formulaFieldName=IncidentHistoryConsoleReply&amp;recordId=a1N0T000000WbuI&amp;HistoryId=a1K0T0000002wPJ&amp;actionType=Email Received"" target=""_self""><img src=""/resource/BMCServiceDesk__SDEFStyles/SDEFbuttons/b_reply_to_client_email.png"" alt=""Reply"" border=""0""/></a>","<a href=""apex/BMCServiceDesk__ConsoleRedirect?formulaFieldName=IncidentHistoryReply&amp;recordId=a1N0T000000WbuI&amp;HistoryId=a1K0T0000002wPJ&amp;actionType=Email Received"" target=""_self""><img src=""/resource/BMCServiceDesk__SDEFStyles/SDEFbuttons/b_reply_to_client_email.png"" alt=""Reply"" border=""0""/></a>","From: anish.marathe@bluepineapple.io<br>Sent: Tue, Jul 19, 2022 16:13 PM<br>To: logistics_service@2-2v7sfnxq9iszqu8re8gp6nzf80btsltk1km01xzow918u82x53.0t-vanuam.cs112.apex.sandbox.salesforce.com; <br>Cc: <br>Subject: Logistics Test (Ref:IN:00812532)<br><br><div class=""WordSection1"">
+<p class=""MsoNormal"">Hello Logistics Test</p>
+<p class=""MsoNormal""> </p>
+<p class=""MsoNormal""><span style="""">Thanks,</span></p>
+<p class=""MsoNormal""><span style="""">Anish Marathe</span></p>
+<p class=""MsoNormal""><span style="""">Cloud Analyst</span></p>
+<p class=""MsoNormal""><span style=""""><a href=""mailto:anish.marathe@bluepineapple.io"" target=""_blank"">anish.marathe@bluepineapple.io</a></span></p>
+<p class=""MsoNormal""><span style=""font-size: 10.5pt; color: #252424;""><img id=""_x0000_i1025"" border=""0"" width=""168"" height=""36"" style=""width: 1.75in; height: .375in;"" src=""https://bluepineapple.io/wp-content/uploads/2020/03/logo.png""></img></span><span style=""""></span></p>
+<p class=""MsoNormal""> </p>
+</div>
+<p><strong>Disclaimer:</strong> This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager.
+ Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization
+ accepts no liability for any damage caused by any virus transmitted by this email.
+</p>",Email Received,2022-07-19T06:13:52.000Z,Email Received-Logistics Test (Ref:IN:00812532),,FALSE,812532,"From: anish.marathe@bluepineapple.io
+Sent: Tue, Jul 19, 2022 16:13 PM
+To: logistics_service@2-2v7sfnxq9iszqu8re8gp6nzf80btsltk1km01xzow918u82x53.0t-vanuam.cs112.apex.sandbox.salesforce.com; 
+Cc: 
+Subject: Logistics Test (Ref:IN:00812532)
+
+Hello Logistics Test
+
+Thanks,
+Anish Marathe
+Cloud Analyst
+anish.marathe@bluepineapple.io<mailto:anish.marathe@bluepineapple.io>
+[https://bluepineapple.io/wp-content/uploads/2020/03/logo.png]
+
+
+Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization accepts no liability for any damage caused by any virus transmitted by this email.",FALSE,sam.staff@konicaminolta.au.test,0050T000001mekOQAQ,2022-07-19T06:13:53.000Z,a1K0T0000002wPJUAY,,FALSE,0050T000001mekOQAQ,2022-07-19T06:13:53.000Z,,,00812532_0,FALSE,2022-07-19T06:13:53.000Z

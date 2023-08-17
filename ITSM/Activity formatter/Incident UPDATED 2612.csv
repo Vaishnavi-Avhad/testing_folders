@@ -1,0 +1,77 @@
+ACCENTURE__C,BMCSERVICEDESK__ACAPPROVALSTATUS__C,BMCSERVICEDESK__ACSEVERITY__C,BMCSERVICEDESK__ACTUAL_OUTAGE_TIME_HOURS__C,BMCSERVICEDESK__ADDITIONAL_EMAIL_INFORMATION__C,BMCSERVICEDESK__ALLTASKCLOSECONTROLLER__C,BMCSERVICEDESK__APPROVAL_STATUS__C,BMCSERVICEDESK__APPROVED__C,BMCSERVICEDESK__BLANK__C,BMCSERVICEDESK__CATEGORIZATION_MODE__C,BMCSERVICEDESK__CATEGORY_ID__C,BMCSERVICEDESK__CLIENT_ACCOUNT__C,BMCSERVICEDESK__CLIENT_MANAGER__C,BMCSERVICEDESK__CLIENT_NAME__C,BMCSERVICEDESK__CLIENT_PHONE__C,BMCSERVICEDESK__CLIENT_TYPE__C,BMCSERVICEDESK__CLOCK_STATUS__C,BMCSERVICEDESK__CLOSED_BY__C,BMCSERVICEDESK__CLOSURECATEGORY__C,BMCSERVICEDESK__COMPLIANT__C,BMCSERVICEDESK__COMPLIMENTS_AND_COMPLAINTS__C,BMCSERVICEDESK__DEEP_VIEW__C,BMCSERVICEDESK__DUE_DATE_PROGRESS__C,BMCSERVICEDESK__EMAILSERVICEADDRESS__C,BMCSERVICEDESK__EVENT_ID__C,BMCSERVICEDESK__FKACCOUNT__C,BMCSERVICEDESK__FKBMC_BASEELEMENT__C,BMCSERVICEDESK__FKBROADCAST__C,BMCSERVICEDESK__FKBUSINESSSERVICE__C,BMCSERVICEDESK__FKCATEGORY__C,BMCSERVICEDESK__FKCLIENT__C,BMCSERVICEDESK__FKCLOSEDBY__C,BMCSERVICEDESK__FKCONTACT__C,BMCSERVICEDESK__FKIMPACT__C,BMCSERVICEDESK__FKINCIDENT__C,BMCSERVICEDESK__FKLEAD__C,BMCSERVICEDESK__FKOPENBY__C,BMCSERVICEDESK__FKPRIORITY__C,BMCSERVICEDESK__FKREQUESTDEFINITION__C,BMCSERVICEDESK__FKREQUESTDETAIL__C,BMCSERVICEDESK__FKSERVICEOFFERING__C,BMCSERVICEDESK__FKSTATUS__C,BMCSERVICEDESK__FKTEMPLATE__C,BMCSERVICEDESK__FKURGENCY__C,BMCSERVICEDESK__FEEDBACK_LAST_SUBMITTED__C,BMCSERVICEDESK__FEEDBACK__C,BMCSERVICEDESK__IMPACT_ID__C,BMCSERVICEDESK__INCIDENTTYPE__C,BMCSERVICEDESK__INCORRECT_CATEGORY__C,BMCSERVICEDESK__INCORRECT_OWNER__C,BMCSERVICEDESK__IS_NEW_RECORD__C,BMCSERVICEDESK__LAUNCH_CONSOLE__C,BMCSERVICEDESK__LOCKEDRECORDTIMESTAMP__C,BMCSERVICEDESK__NEW_INCIDENT__C,BMCSERVICEDESK__PREFERREDCONTACTMETHOD__C,BMCSERVICEDESK__PRIORITY_ID__C,BMCSERVICEDESK__QUEUE__C,BMCSERVICEDESK__RF_ATTACHMENTS__C,BMCSERVICEDESK__RF_FKLAYOUT__C,BMCSERVICEDESK__RF_HASATTACHMENTS__C,BMCSERVICEDESK__RF_INTEGRATIONDATA__C,BMCSERVICEDESK__RF_LTEC__C,BMCSERVICEDESK__RF_SKIPTRIGGEREXECUTION__C,BMCSERVICEDESK__RF_TIMETOCLOSE__C,BMCSERVICEDESK__REASSIGNED_COUNT__C,BMCSERVICEDESK__RECURRENCE__C,BMCSERVICEDESK__RECURRINGPARENTRECORDID__C,BMCSERVICEDESK__REQUESTDETAILCLONEID__C,BMCSERVICEDESK__SERVICEREQUEST__C,BMCSERVICEDESK__SERVICE_REQUEST_TITLE__C,BMCSERVICEDESK__SHOWDUEDATEDIALOG__C,BMCSERVICEDESK__STATUSCHANGEDATE__C,BMCSERVICEDESK__STATUS_ID__C,BMCSERVICEDESK__TASK_CLOSED_CONTROLLER__C,BMCSERVICEDESK__TEMPLATEALREADYAPPLIED__C,BMCSERVICEDESK__TEMPLATENAME__C,BMCSERVICEDESK__TIMESPENTINCURRENTSTATUS__C,BMCSERVICEDESK__TIME_REMAINING_PERCENTAGE__C,BMCSERVICEDESK__TOTALWORKTIME__C,BMCSERVICEDESK__TOTAL_DURATION__C,BMCSERVICEDESK__TYPE__C,BMCSERVICEDESK__UPDATECOUNT__C,BMCSERVICEDESK__URGENCY_ID__C,BMCSERVICEDESK__VIP_CLIENT__C,BMCSERVICEDESK__WORKFLOWCONTROLLER__C,BMCSERVICEDESK__ACTUALDURATION__C,BMCSERVICEDESK__ACTUALOUTAGEDURATION__C,BMCSERVICEDESK__CALL__C,BMCSERVICEDESK__CLIENTEMAIL__C,BMCSERVICEDESK__CLIENTFIRSTNAME__C,BMCSERVICEDESK__CLIENTID__C,BMCSERVICEDESK__CLIENTLASTNAME__C,BMCSERVICEDESK__CLOSEDATETIME__C,BMCSERVICEDESK__CLOSETASKS__C,BMCSERVICEDESK__COMPLETEDDATE__C,BMCSERVICEDESK__CONTACTTYPE__C,BMCSERVICEDESK__DUEDATETIME__C,BMCSERVICEDESK__FIRSTCALLRESOLUTION__C,BMCSERVICEDESK__FOLLOWUPDATETIME__C,BMCSERVICEDESK__FOLLOWUP__C,BMCSERVICEDESK__INACTIVE__C,BMCSERVICEDESK__INC_CONSOLE_DETAIL_LINK__C,BMCSERVICEDESK__INCIDENTDESCRIPTION__C,BMCSERVICEDESK__INCIDENTRESOLUTION__C,BMCSERVICEDESK__ISSERVICEREQUEST__C,BMCSERVICEDESK__MAXIMUMDURATION__C,BMCSERVICEDESK__NOTE__C,BMCSERVICEDESK__OPENDATETIME__C,BMCSERVICEDESK__OUTAGEFROM__C,BMCSERVICEDESK__OUTAGETO__C,BMCSERVICEDESK__QUEUENAME__C,BMCSERVICEDESK__RECOMMENDEDFIXDATETIME__C,BMCSERVICEDESK__RESPONDEDDATETIME__C,BMCSERVICEDESK__RESPONSEDATETIME__C,BMCSERVICEDESK__SHORTDESCRIPTION__C,BMCSERVICEDESK__STATE__C,BMCSERVICEDESK__TIMESPENT__C,CC_LIST__C,CARD_NUMBER__C,CLOSE_ON_CREATE__C,COMMENTS_TO_ESCALATIONS__C,COMMENTSFIELDSAVE__C,CONTACT_INFORMATION_PHONE__C,COUNTER__C,CREATEDBYID,CREATEDDATE,CREATED_TIME__C,CUSTOMER_ADDRESS__C,CUSTOMER_CONTACT_EMAIL_ADDRESS__C,CUSTOMER_CONTACT_NAME__C,CUSTOMER_CONTACT_PHONE_NUMBER__C,CUSTOMER_NAME__C,DEALER_COMPANY_NAME__C,DESCRIPTION_HTML__C,EMAIL_ROLE__C,EMAIL_SENT_DATE_TIME__C,ESCALATION_DESTINATION__C,FIRST_ASSIGNED_STAFF__C,FROM_EMAIL__C,ID,INVOICE_NUMBER__C,ISDELETED,IS_NEW_SERVICE_REQUEST__C,KM_CLOUDID_E_MAIL__C,LASTACTIVITYDATE,LASTMODIFIEDBYID,LASTMODIFIEDDATE,LASTREFERENCEDDATE,LASTVIEWEDDATE,LAST_ACTION__C,LAST_EDITED__C,LAST_WORKING_DAY__C,LOCATION__C,MACHINE_MODEL__C,MACHINE_SERIAL_NUMBER__C,NAME,NUMBER_OF_DEVICES_TO_BUILD__C,OUTBOUND_CREATED__C,OUTBOUND_NUMBER__C,OWNERID,REASON_FOR_UPDATE__C,RECEPTION_DATE_AND_TIME__C,RECEPTIONIST__C,REPORTED_BY__C,REQUEST_PERSON__C,RESOLUTION_RESULT__C,SCOM_ALERT__C,SCOM_SOURCE__C,SEQUENCE__C,SERVICE_ENGINEER_EMAIL__C,SERVICE_ENGINEER_NAME__C,SERVICE_ORDER_NUMBER__C,SHORTCUT_TO_INCIDENT__C,SOLD_TO_PARTY_NUMBER__C,STATE_LOCATION__C,SUB_CATEGORY__C,SUBJECT__C,SYSTEMMODSTAMP,TEST_CHECK__C,TIME_FROM_OPEN__C,TO_EMAIL_CC__C,TO_EMAIL__C,TO_LIST__C,UKNOWN_CLIENT__C,UNKNOWN_CLIENT_MESSAGE__C,USER_PROFILE__C,MAILSENDCHECK__C,STAFF_MAIL__C
+,Not Applicable,,0,,FALSE,,FALSE,,,,,,Sam Staff,,User,Running,,,NO,,"<a href=""/apex/BMCServiceDesk__DeepView?id=a1N0T000000WbuI"" target=""_blank""><img src=""/resource/BMCServiceDesk__SDEFStyles/SDEFbuttons/deep-view.png"" alt="" "" style=""height:18px; width:18px;"" border=""0""/></a>","<img src=""/resource/BMCServiceDesk__SDEFStyles/SDEFbuttons/light_red.gif"" alt=""Due date of a record has passed"" border=""0""/>",logistics_service@2-2v7sfnxq9iszqu8re8gp6nzf80btsltk1km01xzow918u82x53.0t-vanuam.cs112.apex.sandbox.salesforce.com,,,,,,,0050T000001mgjfQAA,,,a1J10000001COYkEAO,,,,a1P100000004hKqEAI,,,,a23100000009MIbAAM,,a2A10000000JYqQEAW,,,3. Low,Standard Incident,FALSE,FALSE,TRUE,"<a href=""/apex/BMCServiceDesk__ConsoleRedirect?formulaFieldName=IncidentLaunchConsole&amp;recordName=00812532&amp;recordId=a1N0T000000WbuI&amp;incType=Incident&amp;isdtp=vw&amp;uiTheme=Theme3&amp;formLayoutId="" target=""_self"">IN00812532</a>",,"<img src=""/resource/BMCServiceDesk__SDEFStyles/SDEFbuttons/newIncident_icon_16.png"" alt=""New Incident"" style=""height:16px; width:16px;"" border=""0""/>",,3,Logistics,,,0,,1,FALSE,,4,,,,No,,FALSE,2022-07-19T06:13:46.000Z,Open,,FALSE,,230643,0,0,0,Incident,6,3. Low,-,,,,,anish.marathe@bluepineapple.io,Sam,sam.staff@konicaminolta.au.test,Staff,,FALSE,,Mail Listen,2022-08-17T04:43:00.000Z,FALSE,,FALSE,FALSE,"<a href=""/apex/BMCServiceDesk__ConsoleRouting?objectName=Incident&amp;record_name=00812532&amp;record_id=a1N0T000000WbuI&amp;isdtp=vw&amp;isServiceCloudConsole=true"" target=""_blank"">00812532</a>","Logistics Test
+
+Body: Hello Logistics Test
+
+Thanks,
+Anish Marathe
+Cloud Analyst
+anish.marathe@bluepineapple.io{mailto:anish.marathe@bluepineapple.io}
+[https://bluepineapple.io/wp-content/uploads/2020/03/logo.png]
+
+
+Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization accepts no liability for any damage caused by any virus transmitted by this email.",,FALSE,,,2022-07-19T06:13:46.000Z,,,Logistics,,,,"Subject: Logistics Test
+
+Body: Hello Logistics Test
+
+Thanks,
+Anish Marathe
+Cloud Analyst
+anish.marathe@bluepineapple.io<mailto:anish.marathe@bluepineapple.io>
+[https://bluepineapple.io/wp-content/uploads/2020/03/logo.png]
+
+
+Disclaimer: This ema",TRUE,,,,FALSE,,,,0,0050T000001mekOQAQ,2022-07-19T06:13:47.000Z,6,,,,,,,"Logistics Test
+
+Body: 
+
+Hello Logistics Test
+ 
+Thanks,
+Anish Marathe
+Cloud Analyst
+anish.marathe@bluepineapple.io
+
+ 
+
+Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager.
+ Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization
+ accepts no liability for any damage caused by any virus transmitted by this email.",,"Sent: Tue, Jul 19, 2022 16:13 PM",,,anish.marathe@bluepineapple.io,a1N0T000000WbuIUAS,,FALSE,FALSE,,,0050T000001mekOQAQ,2022-07-19T06:23:30.000Z,2022-12-26T09:33:10.000Z,2022-12-26T09:33:10.000Z,,FALSE,,,,,812532,,,,00G0T000002Qug5UAC,,2022-07-19T06:13:46.000Z,Anish Marathe,,,,,,FALSE,,,,"<a href=""https://konicaminolta-au--test.lightning.force.com/lightning/r/BMCServiceDesk__Incident__c/a1N0T000000WbuI/view"" target=""_blank"">Incident</a>",,,,Logistics Test,2022-07-19T06:23:30.000Z,FALSE,,,,To: logistics_service@2-2v7sfnxq9iszqu8re8gp6nzf80btsltk1km01xzow918u82x53.0t-vanuam.cs112.apex.sandbox.salesforce.com,,,ServiceDesk System Administrator,FALSE,
+,Not Applicable,,0,,FALSE,,FALSE,,,,,,Sam Staff,,User,Running,,,NO,,"<a href=""/apex/BMCServiceDesk__DeepView?id=a1N0T000000WbuS"" target=""_blank""><img src=""/resource/BMCServiceDesk__SDEFStyles/SDEFbuttons/deep-view.png"" alt="" "" style=""height:18px; width:18px;"" border=""0""/></a>","<img src=""/resource/BMCServiceDesk__SDEFStyles/SDEFbuttons/light_red.gif"" alt=""Due date of a record has passed"" border=""0""/>",logistics_service@2-2v7sfnxq9iszqu8re8gp6nzf80btsltk1km01xzow918u82x53.0t-vanuam.cs112.apex.sandbox.salesforce.com,,,,,,,0050T000001mgjfQAA,,,a1J10000001COYkEAO,,,,a1P100000004hKqEAI,,,,a23100000009MIbAAM,,a2A10000000JYqQEAW,,,3. Low,Standard Incident,FALSE,FALSE,FALSE,"<a href=""/apex/BMCServiceDesk__ConsoleRedirect?formulaFieldName=IncidentLaunchConsole&amp;recordName=00812534&amp;recordId=a1N0T000000WbuS&amp;incType=Incident&amp;isdtp=vw&amp;uiTheme=Theme3&amp;formLayoutId="" target=""_self"">IN00812534</a>",,,,3,Logistics,,,0,,1,FALSE,,4,,,,No,,FALSE,2022-07-19T06:37:09.000Z,Open,,FALSE,,230622,0,0,0,Incident,11,3. Low,-,,,,,anish.marathe@bluepineapple.io,Sam,sam.staff@konicaminolta.au.test,Staff,,FALSE,,Mail Listen,2022-08-17T05:07:00.000Z,FALSE,,FALSE,FALSE,"<a href=""/apex/BMCServiceDesk__ConsoleRouting?objectName=Incident&amp;record_name=00812534&amp;record_id=a1N0T000000WbuS&amp;isdtp=vw&amp;isServiceCloudConsole=true"" target=""_blank"">00812534</a>","Hello Logistics Test 3
+
+Body: Hello Logistics Test 3
+
+Thanks,
+Anish Marathe
+Cloud Analyst
+anish.marathe@bluepineapple.io{mailto:anish.marathe@bluepineapple.io}
+[https://bluepineapple.io/wp-content/uploads/2020/03/logo.png]
+
+
+Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization accepts no liability for any damage caused by any virus transmitted by this email.",,FALSE,,,2022-07-19T06:37:09.000Z,,,Logistics,,2022-07-21T14:22:28.000Z,,"Subject: Hello Logistics Test 3
+
+Body: Hello Logistics Test 3
+
+Thanks,
+Anish Marathe
+Cloud Analyst
+anish.marathe@bluepineapple.io<mailto:anish.marathe@bluepineapple.io>
+[https://bluepineapple.io/wp-content/uploads/2020/03/logo.png]
+
+
+Disclaimer",TRUE,,,,FALSE,,,,0,0050T000001mekOQAQ,2022-07-19T06:37:09.000Z,6,,,,,,,"Hello Logistics Test 3
+
+Body: 
+
+Hello Logistics Test 3
+ 
+Thanks,
+Anish Marathe
+Cloud Analyst
+anish.marathe@bluepineapple.io
+
+ 
+
+Disclaimer: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager.
+ Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the organization. Finally, the recipient should check this email and any attachments for the presence of viruses. The organization
+ accepts no liability for any damage caused by any virus transmitted by this email.",,"Sent: Tue, Jul 19, 2022 16:37 PM",,,anish.marathe@bluepineapple.io,a1N0T000000WbuSUAS,,FALSE,FALSE,,,0050T000001mekOQAQ,2022-07-21T14:22:28.000Z,2022-12-26T09:32:50.000Z,2022-12-26T09:32:50.000Z,Email Sent,FALSE,,,,,812534,,,,00G0T000002Qug5UAC,,2022-07-19T06:37:09.000Z,Anish Marathe,,,,,,FALSE,,,,"<a href=""https://konicaminolta-au--test.lightning.force.com/lightning/r/BMCServiceDesk__Incident__c/a1N0T000000WbuS/view"" target=""_blank"">Incident</a>",,,,Hello Logistics Test 3,2022-07-21T14:22:28.000Z,FALSE,,,,To: logistics_service@2-2v7sfnxq9iszqu8re8gp6nzf80btsltk1km01xzow918u82x53.0t-vanuam.cs112.apex.sandbox.salesforce.com,,,ServiceDesk System Administrator,FALSE,

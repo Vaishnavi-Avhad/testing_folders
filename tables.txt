@@ -1,0 +1,12 @@
+reports - sys_report
+pa dashboards - pa_dashboards
+
+roles - https://docs.servicenow.com/bundle/rome-it-service-management/page/product/incident-management/task/req-itsm-roles-inci-mgmt.html
+
+
+
+57af7aec73d423002728660c4cf6a71c
+57af7aec73d423002728660c4cf6a71c
+
+1065933b47bf111046ffdeae536d4362
+1065933b47bf111046ffdeae536d4362

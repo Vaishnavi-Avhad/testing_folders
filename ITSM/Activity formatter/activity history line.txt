@@ -1,0 +1,31 @@
+var gr1 = new GlideRecord('sys_history_set');
+gr1.initialize();
+gr1.id='724353cd47c0611046ffdeae536d43da';
+gr1.table = '7ca8ccf121920110a866589604c20d16';
+var sys = gr1.insert();
+gs.info("here "+sys);
+
+var gr2 = new GlideRecord('sys_audit');
+gr2.initialize();
+gr2.tablename= 'incident';
+gr2.documentkey='724353cd47c0611046ffdeae536d43da';
+gr2.user = 'admin';
+gr2.oldvalue = 'JOURNAL FIELD ADDITION';
+gr2.newvalue = 'hi there';
+gr2.fieldname = 'work_notes';
+var sys1 = gr2.insert();
+gs.info("here "+sys1);
+
+
+var gr = new GlideRecord('sys_history_line');
+gr.initialize();
+gr.set = sys;
+gr.audit_sysid = sys1;
+gr.field= 'work_notes';
+gr.label='Work notes';
+gr.new = 'hi there';
+gr.sys_created_on = '2022-12-18 15:10:35';
+gr.insert();
+
+here b6dd5ced4740211046ffdeae536d436b
+here 72dd5ced4740211046ffdeae536d436c

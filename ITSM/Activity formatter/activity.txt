@@ -1,0 +1,36 @@
+step 1 - import all the incidents with some unique field
+step 2 - import activity records with unique incident field in staging table
+step 3 - create a transform map to match unique incident field in source and target (incident) table and then to insert activity data in work notes field of that incident record.
+
+
+
+
+
+column G -incident number
+Column R - incident number
+
+source.u_bmcservicede_description__c+" "+source.u_bmcservicedesk__actionid__c+" "+source.u_bmcservicedesk__userid__c;
+
+
+
+
+
+
+
+
+
+
+
+(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+	var sourceInci = source.u_incident;
+	var gr = new GlideRecord('incident');
+	gr.addQuery('number',sourceInci);
+	gr.query();
+	if(gr.next()){
+		gr.work_notes = source.u_emails;
+		gr.update();
+	}
+
+})(source, target, map, log, action==="update");
